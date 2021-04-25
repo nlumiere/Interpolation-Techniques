@@ -11,3 +11,11 @@ Deanne - Kriging
 
 Nick - Spline/NDInterpolation
 
+# Configuring `conda` Environment
+`conda create -n ncinterp python=3.9`
+
+`conda activate ncinterp`
+
+`conda install -c conda-forge scipy`
+
+`conda install -c conda-forge notebook`
