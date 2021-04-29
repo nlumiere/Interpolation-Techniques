@@ -21,3 +21,5 @@ Nick - Spline/NDInterpolation
 `conda install -c conda-forge notebook`
 
 `conda install -c conda-forge photutils`
+
+`conda install -c conda-forge pykrige`
